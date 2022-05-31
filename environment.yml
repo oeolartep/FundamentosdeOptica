@@ -1,4 +1,5 @@
 name: optica_env
+runs-on: ubuntu-latest
 channels:
     - conda-forge
 dependencies:
