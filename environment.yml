@@ -9,5 +9,5 @@ dependencies:
     - numpy
     - matplotlib
     - jupyterlab=3.0
-    - ipywidgets=7.6.5
+    - jupyterlab_widgets
     - ipympl
