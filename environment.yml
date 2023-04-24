@@ -8,6 +8,6 @@ dependencies:
     - setuptools
     - numpy
     - matplotlib
-    - jupyterlab=3.0
+    - jupyterlab
     - jupyterlab_widgets
     - ipympl
